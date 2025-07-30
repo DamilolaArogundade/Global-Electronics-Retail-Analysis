@@ -11,8 +11,8 @@ An Excel project analysing six years’ worth of data from a retail company that
 - [Data Source](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-source)
 - [Data Cleaning and Preparation](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-cleaning-and-preparation)
 - [Data Analysis and Insight](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-analysis-and-insight)
-- [Data Visualization]()
-- [Recommendations]()
+- [Data Visualization](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-visualisation)
+- [Recommendations](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#recommendations)
 - [Conclusion]()
 
 ## Project Overview
@@ -361,3 +361,9 @@ Based on the analysis above, here are a few recommendations for the global elect
 - Promote top-selling brands more through ads and online features. Consider dropping or discounting low-performing brands to make space for better ones.
 - Look back at what worked in 2018–2019 (the best growth years) and try to repeat successful strategies. Don’t rely too much on physical stores—things like COVID showed how important it is to have strong online options too.
 - Review low-performing stores in countries like France and the Netherlands. If they keep underperforming, consider closing them and focusing on expanding online sales in those regions to cut costs and reach more people.
+
+## Conclusion
+
+This project has successfully uncovered key drivers of sales performance across products, customers, and regions. By understanding who buys what, where, and when, the company can make more informed decisions that improve profitability and customer satisfaction. Continued analysis over time will help track the impact of changes and refine business strategies further.
+
+
