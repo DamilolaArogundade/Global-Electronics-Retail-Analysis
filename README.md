@@ -383,7 +383,7 @@ This project has successfully uncovered key drivers of sales performance across 
 
 
 
-Thank you for viewing this project. I completed this project to showcase my data analysis skills using a data set from a fictitious company from Mavin Analystics. I am actively seeking data analyst roles and am open to new opportunities. If you are interested in discussing or have any feedback, I would love to hear from you.
+Thank you for viewing this project. I completed this project to showcase my data analysis skills using a data set from a fictitious company from Mavin Analystics. I am actively seeking data analyst roles and am open to new opportunities. If you are interested in discussing opportunities or have any feedback, I would love to hear from you.
 
 ### Contact me
 
