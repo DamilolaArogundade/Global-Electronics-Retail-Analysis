@@ -13,7 +13,7 @@ An Excel project analysing six years’ worth of data from a retail company that
 - [Data Analysis and Insight](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-analysis-and-insight)
 - [Data Visualization](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#data-visualisation)
 - [Recommendations](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#recommendations)
-- [Conclusion]()
+- [Conclusion](https://github.com/DamilolaArogundade/Global-Electronics-Retail-Analysis?tab=readme-ov-file#conclusion)
 
 ## Project Overview
 
