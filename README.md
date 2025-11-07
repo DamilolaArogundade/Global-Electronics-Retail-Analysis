@@ -389,4 +389,4 @@ Thank you for viewing this project. I completed this project to showcase my data
 
 **Email:** Raimotarogundade@gmail.com
 
-**LinkedIn:** 
+**LinkedIn:** [Damilola Arogundade](www.linkedin.com/in/damilola-raimot-arogundade)
